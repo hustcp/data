@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05fbcc6a-f3fa-4105-ba3d-4d05dfc22dd3" name="V-Machine-CentOS">
+        <fileTransfer accessType="SFTP" host="www.cpaiwp.cn" port="11195" sshConfigId="2f253935-6ebd-4f9b-8bc0-ea42da2f7ad9" sshConfig="root@www.cpaiwp.cn:11195 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
